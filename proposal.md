@@ -210,4 +210,4 @@ Proyek ini dikerjakan secara individu. Seluruh tahapan perancangan, implementasi
 
 Repository proyek akan dibuat di GitHub dengan nama `pertemuan-14-proposal-proyek-2225250044`.
 
-URL Repository: Akan diisi setelah repository GitHub dibuat.## 13. Repository
+URL Repository: https://github.com/zahramelia/pertemuan-14-proposal-proyek-2225250044
